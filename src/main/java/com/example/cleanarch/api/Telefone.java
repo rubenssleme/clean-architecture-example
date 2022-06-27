@@ -1,5 +1,8 @@
 package com.example.cleanarch.api;
 
+import lombok.Getter;
+
+@Getter
 public class Telefone {
 
     private String ddd;
