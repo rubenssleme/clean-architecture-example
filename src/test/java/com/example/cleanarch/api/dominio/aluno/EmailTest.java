@@ -1,5 +1,6 @@
-package com.example.cleanarch.api;
+package com.example.cleanarch.api.dominio.aluno;
 
+import com.example.cleanarch.api.dominio.aluno.Email;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

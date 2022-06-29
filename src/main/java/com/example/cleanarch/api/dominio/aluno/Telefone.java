@@ -1,4 +1,4 @@
-package com.example.cleanarch.api;
+package com.example.cleanarch.api.dominio.aluno;
 
 import lombok.Getter;
 
